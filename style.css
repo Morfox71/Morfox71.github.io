@@ -1,0 +1,14 @@
+  .btn {
+    width:calc(20vw + 6px);
+    height:calc(8vw + 6px);
+    border-radius:5px;
+    display:flex;
+    background-color: coral;
+    align-items:center;
+    justify-content:center;
+    text-transform:uppercase;
+    vertical-align: middle;
+    font-weight:bold;
+  }
+ 
+ 
